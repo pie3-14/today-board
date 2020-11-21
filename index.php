@@ -85,6 +85,7 @@
         <meta http-equiv="Generator" content="today-board" />
         <!--bootstrap-->
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    	<title>오늘의 한마디 게시판</title>
     </head>
     <body>
         <header>
