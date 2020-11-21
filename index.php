@@ -138,6 +138,10 @@
             </div>
         </main>
         <footer>
+            <!--copyright-->
+            <p class="text-center">
+                <small class="copyright">(c) 2020. <a href="https://github.com/pie3-14/today-board" target="_blank">today-board</a> all rights reserved.</small>
+            </p>
         </footer>
         <!--부트스트랩 홈페이지에 있길래 넣어본 거-->
         <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
